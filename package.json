@@ -13,7 +13,7 @@
     "axios": "^1.13.5",
     "express": "^4.22.1",
     "express-favicon": "^2.0.1",
-    "liquidjs": "^10.25.0",
+    "liquidjs": "^10.25.5",
     "lodash": "^4.17.23",
     "sqlite3": "^6.0.1"
   }
