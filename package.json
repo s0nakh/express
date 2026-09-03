@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.18.0",
-    "express": "^4.22.2",
+    "express": "^5.2.1",
     "express-favicon": "^2.0.1",
     "liquidjs": "^10.27.1",
     "lodash": "^4.18.1",
